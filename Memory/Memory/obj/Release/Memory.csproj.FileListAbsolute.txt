@@ -1,0 +1,12 @@
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\bin\Release\Memory.exe.config
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\bin\Release\Memory.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\bin\Release\Memory.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.csproj.AssemblyReference.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.Form1.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.Properties.Resources.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.Time_wait.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.csproj.GenerateResource.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.csproj.CoreCompileInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Memory\Memory\obj\Release\Memory.pdb
